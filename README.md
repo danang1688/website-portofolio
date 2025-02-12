@@ -1,16 +1,15 @@
-# Portfolio - Hafiz Aryan Siregar
+# Portfolio - Danang Suprastiya
 
 ## Tentang Saya
 
-Saya adalah seorang mahasiswa tingkat akhir dengan pengalaman dalam Pengembangan Web dan Pengujian Perangkat Lunak. Saya memiliki keahlian dalam PHP Framework, JavaScript, SQL, dan Google Cloud.
+Saya lulusan S1 Teknik informatika dari STMIK AKAKOM / UTDI Yogyakarta. Saat ini saya bekerja sebagai Senior. Data Center Operation 
 
 ## Fitur Portfolio
 
-- **Intro**: Bagian pengenalan singkat tentang saya.
-- **About**: Informasi detail tentang latar belakang, minat, dan pengalaman saya.
-- **Works**: Proyek-proyek terbaru yang telah saya kerjakan.
-- **Gallery**: Galeri foto dari aktivitas dan proyek saya.
-- **Contact**: Formulir kontak untuk menghubungi saya.
+Intro: Bagian pengenalan singkat tentang saya.
+Keahlian: Informasi detail tentang keahlian yang saya miliki.
+Pengalaman: Informasi tentang pengalaman kerja saya.
+Proyek: Proyek-proyek yang pernah saya kerjakan.
 
 ## Teknologi yang Digunakan
 
